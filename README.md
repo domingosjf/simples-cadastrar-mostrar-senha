@@ -5,7 +5,7 @@ Suporte - Contato e Dúvidas: domingosjff@protonmail.com
 
 Obs: Assim que Possível reponderei as Dúvidas.
 
-ENVIO -- 08/05/2021:
+ENVIO -- 09/05/2021:
 
 
 # Instalação
