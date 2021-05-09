@@ -18,7 +18,7 @@ ENVIO -- 09/05/2021:
 
 4. Carregue  o captcha.sql usando PHPMyAdmin
 
-5. A alteração inclui / config.php a conexão MySQL e o URL do site (por exemplo, http://example.org/faucet)
+5. Se desejar alterar o nome do Banco de Dados, alterar o / config.php a conexão MySQL.
 
 6. Abrir a Url local, cadastrar um usuario para testar.
 
