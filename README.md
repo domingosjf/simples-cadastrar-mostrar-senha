@@ -26,7 +26,8 @@ ENVIO -- 09/05/2021:
 # Termos e Condições
 
 Você tem o direito de modificar o código, desde que não remova a licença.
-´
+
+
 Serviços freelancer - html - php - bootstrap -- mysql - js
 
 contato: domingosjff@protonmail
